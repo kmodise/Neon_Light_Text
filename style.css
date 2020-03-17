@@ -2,7 +2,7 @@
 body{
     margin: 0;
     padding: 0;
-    background: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fartificialintelligence-news.com%2Fwp-content%2Fuploads%2F2018%2F06%2Fmit-csail-wall-rfpose-signals-research.jpg&f=1&nofb=1);
+    background-image: url('external-content.duckduckgo.com.jpeg');
     background-size: cover;
     font-family: 'Roboto Slab', serif;
 }
